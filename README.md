@@ -1,40 +1,53 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚡ Alireza Noormohammad — Personal Portfolio
 
-## Getting Started
+<p align="center">
+  <b>A modern, responsive, and interactive personal portfolio built with Next.js, TypeScript, Tailwind CSS, and GSAP. Designed in a distinctive Soft Brutalism style.</b>
+</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About The Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is my personal portfolio website, designed to showcase my journey, professional experience, and selected front-end development projects. The aesthetic is heavily inspired by **Soft Brutalism**—featuring bold borders, hard shadows, vibrant accent colors (`#a3e635`), and smooth scroll-driven animations.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### ✨ Key Features
+* **Soft Brutalist UI/UX:** High-contrast design language with rounded corners, custom typography, and playful interactive elements.
+* **GSAP ScrollTrigger Integration:** Immersive pinned vertical scroll experience for showcasing selected projects step-by-step.
+* **Fully Responsive:** Optimized for both desktop displays and mobile touch devices with a custom Apple-style fullscreen overlay menu.
+* **Modern Tech Stack:** Built with high performance and type safety in mind using Next.js App Router and TypeScript.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Technical Arsenal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+My core skill set and tools used across projects:
+* **Core:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+* **Libraries & Frameworks:** React, Next.js, React Router
+* **Styling:** Tailwind CSS, PostCSS
+* **State & Data Fetching:** Zustand, TanStack Query, Axios, React Hook Form
+* **Tools & Workflow:** Git, GitHub, Figma (UI/UX Design), Vite
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📂 Selected Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Taskyrox:** A responsive task-management application built purely in TypeScript without heavy UI frameworks, featuring custom rendering and state-flow management.
+2. **Socially:** A feature-rich social media frontend including authentication, posts, comments, notifications, theme switching, and remote API integration.
+3. **Thinkboard:** An RTL-supported note-management application with full CRUD capabilities, client-side search, sorting, and reusable component architecture.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Portfolio
->>>>>>> ff2be9cd8864d895b4309e9d2f003f39cb9bba8a
+---
+
+## 💻 Getting Started Locally
+
+To run this project on your local machine, follow these simple steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Bukalati/Portfolio.git](https://github.com/Bukalati/Portfolio.git)
